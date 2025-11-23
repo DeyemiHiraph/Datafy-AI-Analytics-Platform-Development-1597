@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 
 .env
+
+# Stop tracking README files (requested)
+/README.md
+datafy-ai-analytics-platform-development/README.md

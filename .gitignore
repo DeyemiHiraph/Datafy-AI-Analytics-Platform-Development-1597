@@ -1,0 +1,3 @@
+## Repo-level ignores
+# Ignore README at repo root per request
+README.md
