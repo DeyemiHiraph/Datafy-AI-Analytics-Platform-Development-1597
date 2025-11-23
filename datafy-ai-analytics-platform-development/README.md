@@ -23,9 +23,6 @@ npm install
 ### 2. Environment Setup
 Your OpenAI API key has been automatically configured:
 ```bash
-# .env file is already set up with:
-VITE_OPENAI_API_KEY=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
-```
 
 ### 3. Start Development Server
 ```bash
